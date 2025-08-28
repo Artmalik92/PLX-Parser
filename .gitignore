@@ -1,0 +1,11 @@
+# files
+test.docx
+учебный_план.docx
+21.03.03_Геодезия_2025_оч_.plx
+21.03.03_Геодезия_2025_оч_.plx.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
